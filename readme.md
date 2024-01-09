@@ -1,0 +1,14 @@
+#API using typescript
+
+JWT_KEY=JWT_KEY
+PORT=3035
+MONGO_URI=mongodb://localhost:27017/dataabse_name
+
+# Email Login Credentials
+
+EMAIL_HOST = mail.domain.com
+EMAIL_PORT = 465
+EMAIL_SSL = true
+EMAIL_AUTH_USER = YOUR_EMAIL_ID  
+EMAIL_AUTH_PASSWORD = YOUR_EMAIL_ID_PASSWORD
+EMAIL_AUTH_FROM = YOUR_EMAIL_ID
