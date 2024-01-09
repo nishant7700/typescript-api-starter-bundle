@@ -2,5 +2,5 @@
 .env.dev
 /node_modules
 /uploads
-/src/index.ts
+
 test-report.html
